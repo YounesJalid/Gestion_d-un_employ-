@@ -75,6 +75,5 @@ int main() {
     Employe e ;
     SaisirEmploye(&e);
     AfficherEmploye(e);
-    printf("salam");
     return 0;
 }
